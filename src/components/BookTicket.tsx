@@ -173,7 +173,7 @@ const BookTicket: React.FC = () => {
                 />
 
                 {/* Origin Station */}
-                <label className="block mb-2 font-medium">Origin Station:</label>
+                <label className="block mb-2 font-medium">Origin</label>
                 <select
                     title="Select a Origin"
                     className="w-full border p-2 mb-4 rounded"
@@ -189,7 +189,7 @@ const BookTicket: React.FC = () => {
                 </select>
 
                 {/* Destination Station */}
-                <label className="block mb-2 font-medium">Destination Station:</label>
+                <label className="block mb-2 font-medium">Destination</label>
                 <select
                     title="Select a destination"
                     className="w-full border p-2 mb-4 rounded"

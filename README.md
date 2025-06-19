@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A Adaptation project with Full Stack Javascript Development With React, Next.Js and Strapi(Headless CMS)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
